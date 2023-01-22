@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background: linear-gradient(180deg, rgba(25,0,255,1) 0%, rgba(13,0,135,1) 32%, rgba(0,0,0,1) 100%);
+    background-repeat: repeat;
+    color: white;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
+
+.list {
+    list-style: none;
+}
+
+.logo img {
+    width: 150px;
+    margin-top: 20px;
+    border-radius: 100px;
+    box-shadow: 0 0 10px black;
+    border: 3px solid black
+}
+
+h1 {
+    margin: 8px;
+}
+
+.list li {
+    margin: 10px 20px;
+}
+
+.list li a {
+    display: block;
+    background-color: rgba(255, 255, 255, 37%);
+    padding: 0 20px;
+    margin-bottom: 15px;
+    border-radius: 40px;
+    text-decoration: none;
+}
+
+.icon {
+    width: 70px;
+    margin-top: 3px;
+}
+
+.insta {
+    width: 200px;
+}
+.face {
+    width: 70px;
+    margin-right: 4px;
+    margin-left: 15px;
+    margin-top: 4px;
+}
+
+.facees {
+    width: 201px;
+    margin-bottom: 15px;
+    margin-right: 16px;
+}
+
+.giticon {
+    width: 70px;
+    margin-right: 16px;
+    margin-top: 4px;
+}
+
+.gitec {
+    width: 155px;
+    margin-right: 32px;
+    margin-bottom: 12px;
+}
+
+.linkedin {
+    width: 270px;
+    margin-top: 4px;
+}
+
+.telegram {
+    width: 70px;
+    margin-right: 8px;
+    margin-top: 4px;
+}
+
+.escritatelegram {
+    width: 198px;
+    margin-bottom: 9px;
+}
